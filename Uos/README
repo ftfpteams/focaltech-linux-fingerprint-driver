@@ -1,1 +1,5 @@
-Place UOS platform driver.
+com.biometrics.fprint.ft9348_1.2.3-42_amd64.deb: intel/amd/Zhaoxin(兆芯）/Hygon(海光）
+
+com.biometrics.fprint.ft9348_1.2.3-30_arm64.deb： phytium(飞腾）/HiSilincon(海思）
+com.biometrics.fprint.ft9348_1.2.3-37_loongarch64.deb loongson(龙芯）
+com.biometrics.fprint.ft9348_1.2.3-42_amd64.deb sw cpu(申威）
